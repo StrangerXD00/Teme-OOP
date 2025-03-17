@@ -1,0 +1,20 @@
+﻿  main.cpp
+  Math.cpp
+C:\Users\home\Desktop\OOP 2025\MathProject\main.cpp(1,10): error C1083: Cannot open include file: 'iosream': No such file or directory
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(8,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(12,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(16,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(20,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(24,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(28,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(32,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(36,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(40,5): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(50,7): error C2653: 'Math': is not a class or namespace name
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(53,10): error C2065: 'nullprt': undeclared identifier
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(54,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(55,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(59,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\home\Desktop\OOP 2025\MathProject\Math.cpp(60,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MathProject.cpp
+  Generating Code...
